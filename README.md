@@ -18,7 +18,7 @@
 
 ### Screenshot
 
-![screen shot of my work](./qrcodescreenshot.png)
+![screen shot of my work](./myscreenshot.png)
 
 The screenshot of my work done XD
 
